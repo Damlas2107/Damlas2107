@@ -1,0 +1,96 @@
+CREATE TABLE employee (
+    id integer,
+    name varchar(50),
+    birthday date,
+    email varchar(100)
+);
+
+insert into employee (id, name, birthday, email) values (1, 'Joane', '2024-04-02', 'jberrington0@fema.gov');
+insert into employee (id, name, birthday, email) values (2, 'Durante', '2024-02-03', 'dbedham1@mtv.com');
+insert into employee (id, name, birthday, email) values (3, 'Adrian', '2024-06-21', 'asavidge2@hc360.com');
+insert into employee (id, name, birthday, email) values (4, 'Erhard', '2024-07-13', 'ebleddon3@jiathis.com');
+insert into employee (id, name, birthday, email) values (5, 'Allyn', '2024-07-21', 'adelafont4@microsoft.com');
+insert into employee (id, name, birthday, email) values (6, 'Shannon', '2023-09-05', 'shavill5@tamu.edu');
+insert into employee (id, name, birthday, email) values (7, 'Dennie', '2024-05-24', 'ddeware6@cnbc.com');
+insert into employee (id, name, birthday, email) values (8, 'Sada', '2024-05-04', 'smacanelley7@cbc.ca');
+insert into employee (id, name, birthday, email) values (9, 'Lamont', '2023-08-15', 'lgodlee8@delicious.com');
+insert into employee (id, name, birthday, email) values (10, 'Thaine', '2024-04-03', 'thughlin9@examiner.com');
+insert into employee (id, name, birthday, email) values (11, 'Happy', '2024-03-24', 'hjanicijevica@yahoo.co.jp');
+insert into employee (id, name, birthday, email) values (12, 'Carole', '2024-01-31', 'clyddiardb@harvard.edu');
+insert into employee (id, name, birthday, email) values (13, 'Konstantin', '2024-02-18', 'kviegasc@ihg.com');
+insert into employee (id, name, birthday, email) values (14, 'Jacques', '2024-07-11', 'jshepeardd@moonfruit.com');
+insert into employee (id, name, birthday, email) values (15, 'Adore', '2024-06-16', 'askewse@wordpress.org');
+insert into employee (id, name, birthday, email) values (16, 'Ruprecht', '2024-04-02', 'rkilleleaf@sakura.ne.jp');
+insert into employee (id, name, birthday, email) values (17, 'Delbert', '2024-05-02', 'dlannong@admin.ch');
+insert into employee (id, name, birthday, email) values (18, 'Jackquelin', '2024-02-02', 'jhunnybunh@technorati.com');
+insert into employee (id, name, birthday, email) values (19, 'Dollie', '2023-12-01', 'dmanharei@discovery.com');
+insert into employee (id, name, birthday, email) values (20, 'Wenonah', '2024-05-04', 'wilyinykhj@prweb.com');
+insert into employee (id, name, birthday, email) values (21, 'Rozele', '2024-05-23', 'rduckk@ucsd.edu');
+insert into employee (id, name, birthday, email) values (22, 'Bayard', '2024-04-21', 'bchimentil@xrea.com');
+insert into employee (id, name, birthday, email) values (23, 'Ann-marie', '2024-07-05', 'abeveridgem@ucoz.com');
+insert into employee (id, name, birthday, email) values (24, 'Case', '2024-04-30', 'cgrennann@google.ru');
+insert into employee (id, name, birthday, email) values (25, 'Ursola', '2024-02-03', 'ukindallo@foxnews.com');
+insert into employee (id, name, birthday, email) values (26, 'Iosep', '2023-08-14', 'irodderp@jimdo.com');
+insert into employee (id, name, birthday, email) values (27, 'Zorine', '2023-10-04', 'zribbensq@livejournal.com');
+insert into employee (id, name, birthday, email) values (28, 'Gaynor', '2024-05-14', 'gmccurdyr@arstechnica.com');
+insert into employee (id, name, birthday, email) values (29, 'Hannis', '2024-08-13', 'htoffolonis@nymag.com');
+insert into employee (id, name, birthday, email) values (30, 'Teador', '2024-04-18', 'trandellt@tripod.com');
+insert into employee (id, name, birthday, email) values (31, 'Jayme', '2023-11-06', 'jhurneu@nhs.uk');
+insert into employee (id, name, birthday, email) values (32, 'Javier', '2024-06-19', 'jdawidv@china.com.cn');
+insert into employee (id, name, birthday, email) values (33, 'Petra', '2023-12-06', 'pphilpottw@epa.gov');
+insert into employee (id, name, birthday, email) values (34, 'Douglas', '2024-06-23', 'dairex@sakura.ne.jp');
+insert into employee (id, name, birthday, email) values (35, 'Hervey', '2023-11-26', 'hhoovarty@nbcnews.com');
+insert into employee (id, name, birthday, email) values (36, 'Kettie', '2024-08-06', 'kdraynz@hibu.com');
+insert into employee (id, name, birthday, email) values (37, 'Pieter', '2024-05-03', 'pharsant10@istockphoto.com');
+insert into employee (id, name, birthday, email) values (38, 'Ermengarde', '2023-12-03', 'edongall11@i2i.jp');
+insert into employee (id, name, birthday, email) values (39, 'Patrizio', '2024-02-22', 'pmullenger12@prweb.com');
+insert into employee (id, name, birthday, email) values (40, 'Linette', '2024-05-19', 'lmcane13@tinyurl.com');
+insert into employee (id, name, birthday, email) values (41, 'Rahal', '2024-05-20', 'rrobertis14@uiuc.edu');
+insert into employee (id, name, birthday, email) values (42, 'Edik', '2024-08-09', 'edelong15@bloomberg.com');
+insert into employee (id, name, birthday, email) values (43, 'Walliw', '2024-03-13', 'wgaller16@imageshack.us');
+insert into employee (id, name, birthday, email) values (44, 'Marne', '2024-07-09', 'mbowerbank17@canalblog.com');
+insert into employee (id, name, birthday, email) values (45, 'Sky', '2023-10-23', 'sdurnford18@lycos.com');
+insert into employee (id, name, birthday, email) values (46, 'Pavel', '2024-04-05', 'pwhitington19@geocities.com');
+insert into employee (id, name, birthday, email) values (47, 'Sheelagh', '2024-08-07', 'smuldownie1a@seesaa.net');
+insert into employee (id, name, birthday, email) values (48, 'Rosemaria', '2023-09-17', 'rstuckes1b@de.vu');
+insert into employee (id, name, birthday, email) values (49, 'Wallie', '2024-04-14', 'wbagguley1c@blinklist.com');
+insert into employee (id, name, birthday, email) values (50, 'Cordie', '2023-11-24', 'cpirdue1d@theglobeandmail.com');
+#
+
+
+
+
+UPDATE employee 
+SET name = 'efe'
+WHERE id = 18 ;
+
+UPDATE employee 
+SET birthday = '2002-7-21'
+WHERE id = 25 ;
+
+UPDATE employee 
+SET name = 'gülerman'
+WHERE id = 27 ;
+
+UPDATE employee 
+SET id = '82'
+WHERE id = 12 ;
+
+UPDATE employee 
+SET email = 'zarti@mail.com'
+WHERE id = 32;
+
+DELETE FROM employee
+WHERE id = 18 ;
+
+DELETE FROM employee
+WHERE id = 26 ;
+
+DELETE FROM employee
+WHERE id = 8 ;
+
+DELETE FROM employee
+WHERE id =46 ;
+
+DELETE FROM employee
+WHERE id =50 ;
